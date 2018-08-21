@@ -1,1 +1,1 @@
-web: python mybotclimatempo.py
+worker: python mybotclimatempo.py
