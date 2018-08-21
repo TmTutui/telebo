@@ -1,1 +1,1 @@
-web: python mybot clima tempo.py
+web: python mybotclimatempo.py
